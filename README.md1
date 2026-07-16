@@ -1,0 +1,25 @@
+# SkyCast Weather App
+
+## Objective
+A weather application developed using Python, Tkinter, and the OpenWeatherMap API.
+
+## Features
+- Search weather by city
+- Weather Climate
+- Weather Description
+- Temperature
+- Pressure
+
+## Technologies
+- Python
+- Tkinter
+- Requests
+- JSON
+- OpenWeatherMap API
+
+## How to Run
+1. Install Python
+2. Install Requests:
+   pip install requests
+3. Run:
+   python main.py
